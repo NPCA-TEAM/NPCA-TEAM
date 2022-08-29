@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, somos o Grupo de Pesquisa NPCA (Núcleo de Pesquisas em Computação Aplicada) da Universidade Federal Rural da Amazônia (UFRA)🖖
 
-<!--
-**NPCA-TEAM/NPCA-TEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/website?label=npca-ufra&style=for-the-badge&url=https://sites.google.com/view/npca-ufra/npca-home/)](https://sites.google.com/view/npca-ufra/npca-home)
+ 
+![NPCA's GitHub stats](https://github-readme-stats.vercel.app/api?username=NPCA&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPCA-TEAM&layout=compact)](https://github.com/NPCA-TEAM/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que usamos
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</div><br/>
+
+## Áreas de estudo
+
+Desenvolvimento de pesquisas em diversas áreas da ciência da computação, tais como Inteligência Computacional - Biologia Computacional - Tecnologia, Inovação e Educação - Redes de Computadores - Informática Agrária - Informática Aplicada à Saúde e Computação Verde.
+
+## Contato:
+- npca.ufra@gmail.com
