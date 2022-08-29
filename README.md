@@ -18,4 +18,6 @@
 Desenvolvimento de pesquisas em diversas áreas da ciência da computação, tais como Inteligência Computacional - Biologia Computacional - Tecnologia, Inovação e Educação - Redes de Computadores - Informática Agrária - Informática Aplicada à Saúde e Computação Verde.
 
 ## Contato:
-- npca.ufra@gmail.com
+<div style="display: inline_block">
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&url=npca.ufra@gmail.com&logo=gmail&logoColor=white" />
+</div><br/>
