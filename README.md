@@ -13,8 +13,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
  
-
- <img align="center" alt="html5" src="" />
 </div><br/>
 
 ## Áreas de estudo
